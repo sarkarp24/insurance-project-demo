@@ -9,3 +9,4 @@ In order to run the application use port 8081.....
 trigger pipeline
 trigger pipeine
 trigger pipeline
+trigger pipeline 03/01/2025 9:05 am PST
